@@ -29,6 +29,7 @@
     
     <div class="filler"></div>
     <h2>Welcome TO USER Info</h2>
+       <a href="viewcustomer.jsp">View All Records</a><br/>
 		
 		
 </div>

@@ -29,7 +29,7 @@ if (name==null || name==""){
 <input type="password" name="password"><br/> 
 <p style="font-size: 10px;"><br><button type="submit"><a href="http://localhost:8081/test/customerhome.jsp">Login</a></button></p>
 <p style="font-size: 10px;"><br><button type="button" class="cancelbtn"><a href="http://localhost:8081/test/home.jsp">Cancel</a></button></p>
-<p style="font-size: 10px;"><br><button type="button" class="registerbtn"><a href="http://localhost:8081/test/customregi.jsp">Register</a></button></p>   
+<p style="font-size: 10px;"><br><button type="button" class="registerbtn"><a href="customerregist.html">Register</a></button></p>   
 </form>
 </body>     
 </html> 
